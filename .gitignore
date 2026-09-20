@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env
+vectorstore/
+*.pyc
+.streamlit/
+
+chat_history.json
+
+
+.kilo/
+
